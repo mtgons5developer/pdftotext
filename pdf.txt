@@ -1,0 +1,20 @@
+The Doe Residence
+Name: John Doe
+Address: 44 Flower Street
+Brooklyn, NY 113820
+Cell: (999) 748-2244
+Email: JohnDoe42@gmail.com
+Prepared By: Gabriel Ryan
+Sales
+Job: 44 Flower Street
+Location: Brooklyn, NY 113820
+Total: $3,752.0
+· WaterGuard 86 $7.00 per item $602.00
+· IceGuard 2 $75.00 per item $150.00
+· TimeMachine 1 $425.00 per item $425.00
+· TripleSafe 1 $758.00 per item $758.00
+· BrightWall 42 $3.00 per item $126.00
+· SaniDry XP 1 $521.00 per item $521.00
+· Floor Matting 433 $2.00 per item $866.00
+· EverLast Basement Windows 4 $76.00 per item $304.00
+

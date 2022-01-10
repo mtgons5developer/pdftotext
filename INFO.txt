@@ -1,0 +1,46 @@
+[PDF]
+Location=
+PDF=Doe_John_2021_3_17_Price_Breakdown_new.pdf
+
+[John Doe]
+Name=John Doe
+FName=John
+LName=Doe
+Street=44 Flower Street
+Town=Brooklyn
+CITY=NY
+ZIPCODE=113820
+Phone1=999-748-2244
+Email=JohnDoe42@gmail.com
+Template1=Initial Email|First Email to send.|1
+Template2=Template 1|Follow-up for update.|0
+Template3=Template 2|Offer to negotiate.|1
+Template4=Template 3|I'll fill all of there myself.|0
+Template5=Template 4|But that is the format I'm thinking.|1
+0=(Me) Initial Offer Template|
+1=(Customer) Reply|
+2=(Me) Template 3|
+3=(Customer) Reply|Spoke with client on the phone, still shopping around Follow-up set for 4 days from now.
+4=(Me) Template 8|
+Template5=||1
+
+[Gabriel Ryan]
+Name=Gabriel Ryan
+FName=Gabriel
+FName=Ryan
+Street=44 Flower Street
+Town=Brooklyn
+CITY=NY
+ZIPCODE=113820
+Phone1=999-748-2244
+Email=GabrielRyan@gmail.com
+Template1=Initial Email|First Email to send.|1
+Template2=Template 1|Follow-up for update.|1
+Template3=Template 2|Offer to negotiate.|1
+Template4=Template 3|I'll fill all of there myself.|1
+Template5=Template 4|But that is the format I'm thinking.|1
+0=(Me) Initial Offer Template|
+1=(Customer) Reply|
+2=(Me) Template 3|
+3=(Customer) Reply|Spoke with client on the phone, still shopping around Follow-up set for 4 days from now.
+4=(Me) Template 8|
